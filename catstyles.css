@@ -1,0 +1,21 @@
+h1 {
+    font-family: serif;
+    font-size: 36;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    margin-top: 5px;
+    max-width: 100%;
+    min-width: 50%;
+    height: auto;
+}
+
+button {
+    font-family: serif;
+    font-size: 24;
+    background-color: #ffff00;
+}
